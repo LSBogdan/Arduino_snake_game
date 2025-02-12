@@ -1,35 +1,37 @@
-# Arduino_snake_game
+# 🐍 **Arduino Snake Game** 🎮✨
 
-## Backstory
-Snake was among the first games I played as a child, so it will always remain in my heart. Therefore, when I had to implement a game on the 8x8 matrix, this was among the first that came to my mind.
+## Backstory 🌟
+Snake was one of the very first games I played as a child, and it has always held a special place in my heart. When I was challenged to implement a game on an 8x8 matrix, the classic Snake immediately came to mind, blending nostalgia with modern creativity.
 
-## Game description
-This game has 3 levels of difficulty:
-<ul>
-  <li> Easy :) - clasic snake, with a lower speed
-  <li> Medium :/ - now the speed is medium
-  <li> Hard :( - the speed will test your reflexes
-</ul>  
 
-## How to play
-<ul>
-  <li> You can choose your own settings
-  <li> You can change the difficulty before start the game
-  <li> Have fun playing the game and check the highscore
-</ul> 
+## Game Description 🔥🎯
+Experience a timeless classic with three levels of difficulty:
+- **Easy 🙂**  
+  Enjoy the traditional Snake game with a slower pace. 🐢
+- **Medium 😐**  
+  Feel the challenge ramp up with a moderate increase in speed. 🚀
+- **Hard 😟**  
+  Test your reflexes with a fast-paced mode that pushes your limits. ⚡
 
-## Used components
-<ul>
-  <li> Matrix (8x8)
-  <li> LCD display (16x2)
-  <li> Joystick
-  <li> Potentiometer
-  <li> Buzzer
-  <li> Resistors and wires
-</ul>  
 
-## Picture
-![Project](assets/Setup.jpeg)
+## How to Play 🎮👉
+- **Custom Settings:** Choose your preferred game settings before you start. ⚙️
+- **Adjustable Difficulty:** Change the difficulty level to suit your skill and mood. 🔄
+- **Aim High:** Play for fun and compete for the high score! 🏆🎉
 
-## Video 
-https://youtu.be/dYF81aN-I0Q
+
+## Used Components 🔌🛠️
+- **8x8 LED Matrix:** Displays the game in action. 💡
+- **16x2 LCD Display:** Shows game information and scores. 📟
+- **Joystick:** Navigate the snake through the grid. 🕹️
+- **Potentiometer:** Adjust settings as needed. 🔧
+- **Buzzer:** Provides audio feedback during gameplay. 🎵
+- **Resistors & Wires:** Ensure proper connectivity and circuit integrity. 🔩
+
+
+## Visuals 
+- **Project Setup Image:**  
+  ![Project](assets/Setup.jpeg)
+
+- **Gameplay Video:**  
+  [Watch on YouTube](https://youtu.be/dYF81aN-I0Q)
