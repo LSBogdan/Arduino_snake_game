@@ -30,8 +30,8 @@ Experience a timeless classic with three levels of difficulty:
 
 
 ## Visuals 
-- **Project Setup Image:**  
+- **Project Setup Image 📸**  
   ![Project](assets/Setup.jpeg)
 
-- **Gameplay Video:**  
+- **Gameplay Video 🎥**  
   [Watch on YouTube](https://youtu.be/dYF81aN-I0Q)
